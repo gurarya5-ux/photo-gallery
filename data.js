@@ -37,9 +37,9 @@ const photos = [
     },
     {
         "id": 7,
-        "title": "Beach Paradise",
-        "url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=400&fit=crop",
-        "description": "Tropical beach with white sand and palm trees."
+        "title": "Mexican Food",
+        "url": "https://b2846093.assetcdn.net/2.0/2846093/wp-content/uploads/2023/04/Flautas-Mexico-Foods.jpg?lossy=2&strip=1&webp=1",
+        "description": "Delicious Mexican flautas - crispy rolled tacos."
     },
     {
         "id": 8,
