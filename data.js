@@ -38,7 +38,7 @@ const photos = [
     {
         "id": 7,
         "title": "Mexican Flautas",
-        "url": "https://b2846093.assetcdn.net/2.0/2846093/wp-content/uploads/2023/04/Flautas-Mexico-Foods.jpg?lossy=2&strip=1&webp=1",
+        "url": "https://images.unsplash.com/photo-1594212699903-ec8a3e501716?w=400&h=400&fit=crop",
         "description": "Delicious Mexican flautas - crispy rolled tacos."
     },
     {
@@ -50,7 +50,7 @@ const photos = [
     {
         "id": 9,
         "title": "Mole Poblano",
-        "url": "https://images.unsplash.com/photo-1602524818606-0311185d5f09?w=400&h=400&fit=crop",
+        "url": "https://images.unsplash.com/photo-1598515214211-89d3c7373b1d?w=400&h=400&fit=crop",
         "description": "Rich and complex mole poblano sauce over chicken."
     }
 ];
