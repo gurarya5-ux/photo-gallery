@@ -37,20 +37,20 @@ const photos = [
     },
     {
         "id": 7,
-        "title": "Mexican Food",
+        "title": "Mexican Flautas",
         "url": "https://b2846093.assetcdn.net/2.0/2846093/wp-content/uploads/2023/04/Flautas-Mexico-Foods.jpg?lossy=2&strip=1&webp=1",
         "description": "Delicious Mexican flautas - crispy rolled tacos."
     },
     {
         "id": 8,
-        "title": "Football",
-        "url": "https://cdn.britannica.com/23/240123-050-354D5F02/Jalen-Hurts-Super-Bowl-LVII.jpg",
-        "description": "Jalen Hurts at Super Bowl LVII."
+        "title": "Tacos al Pastor",
+        "url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=400&h=400&fit=crop",
+        "description": "Traditional Mexican tacos al pastor with pineapple."
     },
     {
         "id": 9,
-        "title": "Snowy Cabin",
-        "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=400&h=400&fit=crop",
-        "description": "Cozy cabin covered in snow."
+        "title": "Mole Poblano",
+        "url": "https://images.unsplash.com/photo-1602524818606-0311185d5f09?w=400&h=400&fit=crop",
+        "description": "Rich and complex mole poblano sauce over chicken."
     }
 ];
